@@ -1,2 +1,2 @@
 # Integral_calc
-Developing an Integral Calculator
+Developing an Integral Calculator that computes Definite Integrals
